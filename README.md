@@ -1,4 +1,4 @@
-These links contain examples and sources.
+These links contain examples and sources on creating flatpaks from manifests.
 
 https://docs.flatpak.org/en/latest/conventions.html?highlight=launcher#application-icons
 
