@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Veloren Launcher
+Exec=net.veloren.airshipper
+Type=Application
+Icon=airshipper.png
+Categories=Games;Free;Rust;Open;Source
